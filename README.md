@@ -10,6 +10,7 @@ Three Eras of Gameplay:
 Alterpedia: A dynamic online platform that documents the alternate history created by players, accessible to the public for viewing and engagement.
 
 Custom Language and Real Languages: Option to code in any supported language or use a custom, game-specific language, catering to both experienced programmers and beginners.
+
 Persistent Shared World: A shared universe where players' actions affect the same world, leading to collaborative and competitive gameplay dynamics.
 
 Educational and Engaging: Offers educational value in coding and history, while providing an immersive and interactive gaming experience.
